@@ -1,0 +1,474 @@
+.tytul {
+    font-family: "Amatic SC", sans-serif;
+    font-size: 4rem;
+    font-weight: bold;
+    float: left;
+    text-align: center;
+    width: 100%;
+    margin-top: 40px;
+    color: #03295a;
+}
+.adres {
+    font-family: "Lato", sans-serif;
+    font-size: 20px;
+    font-weight: bold;
+    float: left;
+    text-align: center;
+    width: 100%;
+    margin-top: 10px;
+    color: #03295a;
+}
+.powitanie {
+    float: left;
+    width: 100%;
+    height: 595px;
+    text-align: center;
+    margin-top: 5%;
+}
+.zdjecieszkola {
+    width: 50%;
+    height: 595px;
+    float: left;
+    text-align: center;
+}
+.powitanietytul {
+    width: 50%;
+    height: 200px;
+    float: left;
+    font-family: "Amatic SC", sans-serif;
+    text-align: center;
+    color: rgb(227,6,19);
+    font-weight: bold;
+    font-size: 35px;
+    margin-top: 50px;
+}
+.powitanietekst {
+    width: 50%;
+    height: 305;
+    float: left;
+    font-family: "Lato", sans-serif;
+    text-align: center;
+    color: #03295a;
+    font-weight: bold;
+    font-size: 25px;
+    margin-top: 40px;
+}
+.pracowniafotograficzna {
+    float: left;
+    width: 100%;
+    height: 595px;
+    margin-top: 5%;
+}
+.fotografiatytul {
+    width: 50%;
+    height: 200px;
+    float: left;
+    font-family: "Amatic SC", sans-serif;
+    text-align: center;
+    color: rgb(227,6,19);
+    font-weight: bold;
+    font-size: 35px;
+    margin-top: 50px;
+}
+.fotografiazdjecie {
+    width: 50%;
+    height: 595px;
+    float: right;
+    text-align: center;
+}
+.fotografiatekst {
+    width: 50%;
+    height: 305;
+    float: left;
+    font-family: "Lato", sans-serif;
+    text-align: center;
+    color: #03295a;
+    font-weight: bold;
+    font-size: 25px;
+    margin-top: 40px;
+}
+.zespolmuzyczny {
+    float: left;
+    width: 100%;
+    height: 595px;
+    margin-top: 5%;
+}
+.muzykazdjecie {
+    width: 50%;
+    height: 595px;
+    float: left;
+    text-align: center;
+}
+.muzykatytul {
+    width: 50%;
+    height: 200px;
+    float: left;
+    font-family: "Amatic SC", sans-serif;
+    text-align: center;
+    color: rgb(227,6,19);
+    font-weight: bold;
+    font-size: 35px;
+    margin-top: 50px;
+}
+.muzykatekst {
+    width: 50%;
+    height: 305;
+    float: left;
+    font-family: "Lato", sans-serif;
+    text-align: center;
+    color: #03295a;
+    font-weight: bold;
+    font-size: 25px;
+    margin-top: 40px;
+}
+.warsztatreklamowy {
+    float: left;
+    width: 100%;
+    height: 595px;
+    margin-top: 5%;
+}
+.reklamazdjecie {
+    width: 50%;
+    height: 595px;
+    float: right;
+    text-align: center;
+}
+.reklamatytul {
+    width: 50%;
+    height: 200px;
+    float: left;
+    font-family: "Amatic SC", sans-serif;
+    text-align: center;
+    color: rgb(227,6,19);
+    font-weight: bold;
+    font-size: 35px;
+    margin-top: 50px;
+}
+.reklamatekst {
+    width: 50%;
+    height: 305;
+    float: left;
+    font-family: "Lato", sans-serif;
+    text-align: center;
+    color: #03295a;
+    font-weight: bold;
+    font-size: 25px;
+    margin-top: 40px;
+}
+.vr {
+    float: left;
+    width: 100%;
+    height: 595px;
+    margin-top: 5%;
+}
+.vrzdjecie {
+    width: 50%;
+    height: 595px;
+    float: left;
+    text-align: center;
+}
+.vrtytul {
+    width: 50%;
+    height: 200px;
+    float: left;
+    font-family: "Amatic SC", sans-serif;
+    text-align: center;
+    color: rgb(227,6,19);
+    font-weight: bold;
+    font-size: 35px;
+    margin-top: 50px;
+}
+.vrtekst {
+    width: 50%;
+    height: 305;
+    float: left;
+    font-family: "Lato", sans-serif;
+    text-align: center;
+    color: #03295a;
+    font-weight: bold;
+    font-size: 25px;
+    margin-top: 40px;
+}
+.weterynaria {
+    float: left;
+    width: 100%;
+    height: 595px;
+    margin-top: 5%;
+}
+.weterynariazdjecie {
+    width: 50%;
+    height: 595px;
+    float: right;
+    text-align: center;
+}
+.weterynariatytul {
+    width: 50%;
+    height: 200px;
+    float: left;
+    font-family: "Amatic SC", sans-serif;
+    text-align: center;
+    color: rgb(227,6,19);
+    font-weight: bold;
+    font-size: 35px;
+    margin-top: 50px;
+}
+.weterynariatekst {
+    width: 50%;
+    height: 305;
+    float: left;
+    font-family: "Lato", sans-serif;
+    text-align: center;
+    color: #03295a;
+    font-weight: bold;
+    font-size: 25px;
+    margin-top: 40px;
+}
+.programisci {
+    float: left;
+    width: 100%;
+    height: 595px;
+    margin-top: 5%;
+}
+.programiscizdjecie {
+    width: 50%;
+    height: 595px;
+    float: left;
+    text-align: center;
+}
+.programiscitytul {
+    width: 50%;
+    height: 200px;
+    float: left;
+    font-family: "Amatic SC", sans-serif;
+    text-align: center;
+    color: rgb(227,6,19);
+    font-weight: bold;
+    font-size: 35px;
+    margin-top: 50px;
+}
+.programiscitekst {
+    width: 50%;
+    height: 305;
+    float: left;
+    font-family: "Lato", sans-serif;
+    text-align: center;
+    color: #03295a;
+    font-weight: bold;
+    font-size: 25px;
+    margin-top: 40px;
+}
+.salapokazowa {
+    float: left;
+    width: 100%;
+    height: 595px;
+    margin-top: 5%;
+}
+.pokazowazdjecie {
+    width: 50%;
+    height: 595px;
+    float: right;
+    text-align: center;
+}
+.pokazowatytul {
+    width: 50%;
+    height: 200px;
+    float: left;
+    font-family: "Amatic SC", sans-serif;
+    text-align: center;
+    color: rgb(227,6,19);
+    font-weight: bold;
+    font-size: 35px;
+    margin-top: 50px;
+}
+.pokazowatekst {
+    width: 50%;
+    height: 305;
+    float: left;
+    font-family: "Lato", sans-serif;
+    text-align: center;
+    color: #03295a;
+    font-weight: bold;
+    font-size: 25px;
+    margin-top: 40px;
+}
+.wystawafotografii {
+    float: left;
+    width: 100%;
+    height: 595px;
+    margin-top: 5%;
+}
+.wystawazdjecie {
+    width: 50%;
+    height: 595px;
+    float: left;
+    text-align: center;
+}
+.wystawatytul {
+    width: 50%;
+    height: 200px;
+    float: left;
+    font-family: "Amatic SC", sans-serif;
+    text-align: center;
+    color: rgb(227,6,19);
+    font-weight: bold;
+    font-size: 35px;
+    margin-top: 50px;
+}
+.wystawatekst {
+    width: 50%;
+    height: 305;
+    float: left;
+    font-family: "Lato", sans-serif;
+    text-align: center;
+    color: #03295a;
+    font-weight: bold;
+    font-size: 25px;
+    margin-top: 40px;
+}
+.csgo {
+    float: left;
+    width: 100%;
+    height: 595px;
+    margin-top: 5%;
+}
+.cszdjecie {
+    width: 50%;
+    height: 595px;
+    float: right;
+    text-align: center;
+}
+.cstytul {
+    width: 50%;
+    height: 200px;
+    float: left;
+    font-family: "Amatic SC", sans-serif;
+    text-align: center;
+    color: rgb(227,6,19);
+    font-weight: bold;
+    font-size: 35px;
+    margin-top: 50px;
+}
+.cstekst {
+    width: 50%;
+    height: 305;
+    float: left;
+    font-family: "Lato", sans-serif;
+    text-align: center;
+    color: #03295a;
+    font-weight: bold;
+    font-size: 25px;
+    margin-top: 40px;
+}
+.fryz {
+    float: left;
+    width: 100%;
+    height: 595px;
+    margin-top: 5%;
+}
+.fryzzdjecie {
+    width: 50%;
+    height: 595px;
+    float: left;
+    text-align: center;
+}
+.fryztytul {
+    width: 50%;
+    height: 200px;
+    float: left;
+    font-family: "Amatic SC", sans-serif;
+    text-align: center;
+    color: rgb(227,6,19);
+    font-weight: bold;
+    font-size: 35px;
+    margin-top: 50px;
+}
+.fryztekst {
+    width: 50%;
+    height: 305;
+    float: left;
+    font-family: "Lato", sans-serif;
+    text-align: center;
+    color: #03295a;
+    font-weight: bold;
+    font-size: 25px;
+    margin-top: 40px;
+}
+.montazowa {
+    float: left;
+    width: 100%;
+    height: 595px;
+    margin-top: 5%;
+}
+.montazowazdjecie {
+    width: 50%;
+    height: 595px;
+    float: right;
+    text-align: center;
+}
+.montazowatytul {
+    width: 50%;
+    height: 200px;
+    float: left;
+    font-family: "Amatic SC", sans-serif;
+    text-align: center;
+    color: rgb(227,6,19);
+    font-weight: bold;
+    font-size: 35px;
+    margin-top: 50px;
+}
+.montazowatekst {
+    width: 50%;
+    height: 305;
+    float: left;
+    font-family: "Lato", sans-serif;
+    text-align: center;
+    color: #03295a;
+    font-weight: bold;
+    font-size: 25px;
+    margin-top: 40px;
+}
+.reklama {
+    float: left;
+    width: 100%;
+    height: 595px;
+    margin-top: 5%;
+}
+.reklamazdjecie {
+    width: 50%;
+    height: 595px;
+    float: left;
+    text-align: center;
+}
+.reklamatytul {
+    width: 50%;
+    height: 200px;
+    float: left;
+    font-family: "Amatic SC", sans-serif;
+    text-align: center;
+    color: rgb(227,6,19);
+    font-weight: bold;
+    font-size: 35px;
+    margin-top: 50px;
+}
+.reklamatekst {
+    width: 50%;
+    height: 305px;
+    float: left;
+    font-family: "Lato", sans-serif;
+    text-align: center;
+    color: #03295a;
+    font-weight: bold;
+    font-size: 25px;
+    margin-top: 40px;
+}
+.pozegnanie {
+    width: 100%;
+    height: 100px;
+    float: left;
+    font-family: "Amatic SC", sans-serif;
+    text-align: center;
+    color: rgb(227,6,19);
+    font-weight: bold;
+    font-size: 50px;
+    margin-top: 5%;
+}
